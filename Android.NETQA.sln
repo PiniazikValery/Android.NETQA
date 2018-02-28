@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Android.NETQA", "Android.NETQA\Android.NETQA.csproj", "{CEA8F1BE-DC84-42C1-A0A7-1B3AFE97E258}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serenity", "Serenity\Serenity.csproj", "{5A99BEAD-7C46-48EC-A96A-B5AB24804EF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEA8F1BE-DC84-42C1-A0A7-1B3AFE97E258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEA8F1BE-DC84-42C1-A0A7-1B3AFE97E258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEA8F1BE-DC84-42C1-A0A7-1B3AFE97E258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEA8F1BE-DC84-42C1-A0A7-1B3AFE97E258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A99BEAD-7C46-48EC-A96A-B5AB24804EF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A99BEAD-7C46-48EC-A96A-B5AB24804EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A99BEAD-7C46-48EC-A96A-B5AB24804EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A99BEAD-7C46-48EC-A96A-B5AB24804EF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AF977CC-D807-465B-BA01-2A8F704B153C}
+	EndGlobalSection
+EndGlobal
