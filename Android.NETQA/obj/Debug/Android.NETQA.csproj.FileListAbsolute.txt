@@ -32,5 +32,8 @@ C:\Users\valery.piniazik\source\repos\Android.NETQA\Android.NETQA\obj\Debug\Andr
 C:\Users\valery.piniazik\source\repos\Android.NETQA\Android.NETQA\obj\Debug\Android.NETQA.pdb
 C:\Users\valery.piniazik\source\repos\Android.NETQA\Android.NETQA\bin\Debug\Serenity.dll
 C:\Users\valery.piniazik\source\repos\Android.NETQA\Android.NETQA\bin\Debug\Serenity.pdb
+<<<<<<< HEAD
 D:\Android.NETQA\Android.NETQA\obj\Debug\Android.NETQA.csprojResolveAssemblyReference.cache
 D:\Android.NETQA\Android.NETQA\obj\Debug\Android.NETQA.csproj.CoreCompileInputs.cache
+=======
+>>>>>>> parent of 795a5f8... A.NETQA [2] - Removed unused class

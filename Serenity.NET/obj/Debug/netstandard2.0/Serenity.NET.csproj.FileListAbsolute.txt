@@ -1,0 +1,9 @@
+C:\Users\valery.piniazik\source\repos\Android.NETQA\Serenity.NET\bin\Debug\netstandard2.0\Serenity.NET.deps.json
+C:\Users\valery.piniazik\source\repos\Android.NETQA\Serenity.NET\bin\Debug\netstandard2.0\Serenity.NET.dll
+C:\Users\valery.piniazik\source\repos\Android.NETQA\Serenity.NET\bin\Debug\netstandard2.0\Serenity.NET.pdb
+C:\Users\valery.piniazik\source\repos\Android.NETQA\Serenity.NET\obj\Debug\netstandard2.0\Serenity.NET.csproj.CoreCompileInputs.cache
+C:\Users\valery.piniazik\source\repos\Android.NETQA\Serenity.NET\obj\Debug\netstandard2.0\Serenity.NET.AssemblyInfoInputs.cache
+C:\Users\valery.piniazik\source\repos\Android.NETQA\Serenity.NET\obj\Debug\netstandard2.0\Serenity.NET.AssemblyInfo.cs
+C:\Users\valery.piniazik\source\repos\Android.NETQA\Serenity.NET\obj\Debug\netstandard2.0\Serenity.NET.dll
+C:\Users\valery.piniazik\source\repos\Android.NETQA\Serenity.NET\obj\Debug\netstandard2.0\Serenity.NET.pdb
+C:\Users\valery.piniazik\source\repos\Android.NETQA\Serenity.NET\obj\Debug\netstandard2.0\Serenity.NET.csprojResolveAssemblyReference.cache
