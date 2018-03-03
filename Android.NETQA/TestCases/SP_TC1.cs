@@ -1,15 +1,15 @@
 ﻿using Android.NETQA.Steps;
+using Framework.TestCaseAbstraction;
 using NUnit.Framework;
-using Serenity.TestCaseAbstraction;
 
 namespace Android.NETQA.TestCases.StartPage
 {
     [TestFixture]
-    class SP_TC1:BaseTestCase
+    class SP_TC1:TestCase
     {
         StartPageSteps UserAtStartPage { get; set; }
-        ResultsOfSearchPageSteps UserAtResultsOfSearchPage { get; set; }       
-        
+        ResultsOfSearchPageSteps UserAtResultsOfSearchPage { get; set; }
+
         [Test]
         public void TestSearchApp()
         {            

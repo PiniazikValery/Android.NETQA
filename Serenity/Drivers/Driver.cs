@@ -3,7 +3,7 @@ using OpenQA.Selenium.Appium.Android;
 using OpenQA.Selenium.Remote;
 using System;
 
-namespace Serenity.Drivers
+namespace Framework.Drivers
 {
     public class Driver
     {

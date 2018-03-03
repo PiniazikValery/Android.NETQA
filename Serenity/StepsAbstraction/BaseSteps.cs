@@ -1,16 +1,18 @@
-﻿using Serenity.PageObjectAbstraction;
-using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using AndroidReporter;
+using Framework.PageObjectAbstraction;
+using System.Dynamic;
+using System.Linq.Expressions;
 using System.Reflection;
 
-namespace Serenity.StepsAbstraction
+namespace Framework.StepsAbstraction
 {
     public abstract class BaseSteps
     {
+        protected Reporter Report = new Reporter();        
+    
         protected void WaitLoadingPage()
         {
-            PageObject page=null;            
+            PageObject pageObject=null;
             var bindingFlags = BindingFlags.Instance |
                    BindingFlags.NonPublic |
                    BindingFlags.Public;
@@ -18,10 +20,11 @@ namespace Serenity.StepsAbstraction
             {                
                     if (field.FieldType.IsSubclassOf(typeof(PageObject)))
                     {
-                        page = (PageObject)field.GetValue(this);
+                        pageObject = (PageObject)field.GetValue(this);
                     }                
             }
-            page.WaitPageLoading();
-        }
+            Report.CurrentPage = pageObject.GetType().Name;
+            pageObject.WaitPageLoading();
+        }       
     }
 }

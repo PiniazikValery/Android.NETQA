@@ -1,6 +1,6 @@
-﻿using OpenQA.Selenium;
+﻿using Framework.PageObjectAbstraction;
+using OpenQA.Selenium;
 using OpenQA.Selenium.Appium.PageObjects.Attributes;
-using Serenity.PageObjectAbstraction;
 
 namespace Android.NETQA.PageObjects
 {
@@ -11,7 +11,7 @@ namespace Android.NETQA.PageObjects
 
         public void ClickBackButton()
         {
-            BackButton.Click();
+            BackButton.Click();            
         }      
     }
 }

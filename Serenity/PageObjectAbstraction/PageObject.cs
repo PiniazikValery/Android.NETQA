@@ -2,13 +2,13 @@
 using OpenQA.Selenium.Appium.PageObjects;
 using OpenQA.Selenium.Support.PageObjects;
 using OpenQA.Selenium.Support.UI;
-using Serenity.Drivers;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
+using Framework.Drivers;
 
-namespace Serenity.PageObjectAbstraction
+namespace Framework.PageObjectAbstraction
 {
     public abstract class PageObject
     {
@@ -26,7 +26,7 @@ namespace Serenity.PageObjectAbstraction
                 {
                     WebElementsContainer.Add((IWebElement)field.GetValue(this));
                 }
-            }            
+            }
         }
 
         bool PageIsLoaded()
