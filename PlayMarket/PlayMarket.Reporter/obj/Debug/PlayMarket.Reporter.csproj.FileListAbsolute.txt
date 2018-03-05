@@ -1,0 +1,6 @@
+c:\users\valery.piniazik\source\repos\PlayMarket\PlayMarket.Reporter\bin\Debug\PlayMarket.Reporter.dll
+c:\users\valery.piniazik\source\repos\PlayMarket\PlayMarket.Reporter\bin\Debug\PlayMarket.Reporter.pdb
+c:\users\valery.piniazik\source\repos\PlayMarket\PlayMarket.Reporter\obj\Debug\PlayMarket.Reporter.csprojResolveAssemblyReference.cache
+c:\users\valery.piniazik\source\repos\PlayMarket\PlayMarket.Reporter\obj\Debug\PlayMarket.Reporter.csproj.CoreCompileInputs.cache
+c:\users\valery.piniazik\source\repos\PlayMarket\PlayMarket.Reporter\obj\Debug\PlayMarket.Reporter.dll
+c:\users\valery.piniazik\source\repos\PlayMarket\PlayMarket.Reporter\obj\Debug\PlayMarket.Reporter.pdb

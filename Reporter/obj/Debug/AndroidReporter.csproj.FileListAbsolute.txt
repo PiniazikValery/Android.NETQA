@@ -1,6 +1,0 @@
-D:\Android.NETQA\Reporter\bin\Debug\Reporter.dll
-D:\Android.NETQA\Reporter\bin\Debug\Reporter.pdb
-D:\Android.NETQA\Reporter\obj\Debug\AndroidReporter.csproj.CoreCompileInputs.cache
-D:\Android.NETQA\Reporter\obj\Debug\Reporter.dll
-D:\Android.NETQA\Reporter\obj\Debug\Reporter.pdb
-D:\Android.NETQA\Reporter\obj\Debug\AndroidReporter.csprojResolveAssemblyReference.cache
